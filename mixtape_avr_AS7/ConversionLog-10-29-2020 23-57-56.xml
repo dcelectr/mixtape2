@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<?xml-stylesheet type='text/xsl' href='AVRStudioConversionLog.xslt'?>
+<ConversionLog BrandName="Atmel Studio 7.0 Project ConversionLog">
+  <Project name="mixtape" id="mixtape" status="Failure">
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Source Project Path: C:\Users\user\Documents\Atmel Studio\7.0\mixtape_avr_new\mixtape.aps</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Studio5 Project Path: C:\Users\user\Documents\Atmel Studio\7.0\mixtape_avr_new\mixtape.avrgccproj</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Studio5 Solution Path: C:\Users\user\Documents\Atmel Studio\7.0\mixtape_avr_new\mixtape.atsln</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Started : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Completed : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Started : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Completed : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Started : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>10/29/2020 23:57:54</DateTime>
+      <Message>Skipped reading Build Dependency settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Skipped reading ProjectLevelToolchainSettings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Skipped reading Memory settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Skipped reading File level Toolchain settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Create Atmel Studio 7.0 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Create Atmel Studio 7.0 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Updating Atmel Studio 7.0 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Updating Atmel Studio 7.0 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Updating Atmel Studio 7.0 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Updating Atmel Studio 7.0 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Completed : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Started : Saving Atmel Studio 7.0 Solution</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Fatal</Type>
+      <DateTime>10/29/2020 23:57:55</DateTime>
+      <Message>Conversion Failed:Project Import Failed : The Visual Studio component cache is out of date. Please restart Visual Studio. [Activity : Saving Atmel Studio 7.0 Solution]</Message>
+      <Exception>System.Exception: Project Import Failed : The Visual Studio component cache is out of date. Please restart Visual Studio. [Activity : Saving Atmel Studio 7.0 Solution] ---&gt; Microsoft.VisualStudio.ExtensibilityHosting.InvalidMEFCacheException: The Visual Studio component cache is out of date. Please restart Visual Studio.
+   at Microsoft.VisualStudio.ExtensibilityHosting.FaultCatchingAssemblyLoader.&lt;LoadAssembly&gt;b__12_0(AssemblyName assemblyNameParam)
+   at Microsoft.VisualStudio.ExtensibilityHosting.FaultCatchingAssemblyLoader.SafeGetOrAdd[TKey,TValue](IDictionary`2 dictionary, TKey key, Func`2 valueFactory)
+   at Microsoft.VisualStudio.ExtensibilityHosting.FaultCatchingAssemblyLoader.LoadAssembly(AssemblyName assemblyName)
+   at Microsoft.VisualStudio.Composition.Reflection.ResolverExtensions.GetManifest(Resolver resolver, AssemblyName assemblyName)
+   at Microsoft.VisualStudio.Composition.Reflection.ResolverExtensions.Resolve(ConstructorRef constructorRef)
+   at Microsoft.VisualStudio.Composition.RuntimeComposition.RuntimePart.get_ImportingConstructor()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.CreateValue()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.Create()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveToState(PartLifecycleState requiredState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.ExportProvider.&lt;&gt;c__DisplayClass53_0.&lt;CreateExport&gt;b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.Composition.ExportProvider.&lt;&gt;c__DisplayClass70_0`2.&lt;GetExports&gt;b__1()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.Composition.ExportProvider.&lt;&gt;c__45`1.&lt;GetExportedValues&gt;b__45_0(Lazy`1 l)
+   at System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at Microsoft.VisualStudio.ComponentModelHost.ComponentModel.GetExtensions[T]()
+   at Atmel.VsIde.AvrStudio.Project.Management.ATProjectListenerHandler.Compose()
+   at Atmel.VsIde.AvrStudio.Project.Management.ATProjectListenerHandler.get_Listeners()
+   at Atmel.VsIde.AvrStudio.Project.Management.ATProjectListenerHandler.RaiseOnBeforeProjectUpgrade(ProjectUpgradeEventArgs upgradeArgs)
+   at Atmel.VsIde.AvrStudio.Project.Management.AvrProjectNode.CheckAndRaiseOnBeforeProjectUpgrade(AvrProjectVersion currentAvrProjectVersion, AvrProjectVersion latestProjectVersion)
+   at Atmel.VsIde.AvrStudio.Project.Management.AvrProjectNode.UpgradeProjectFileToLatestVersion(AvrProjectVersion currentAvrProjectVersion, AvrProjectVersion latestProjectVersion)
+   at Atmel.VsIde.AvrStudio.Project.Management.AvrProjectNode.Reload()
+   at Microsoft.VisualStudio.Project.ProjectNode.Load(String fileName, String location, String name, UInt32 flags, Guid&amp; iidProject, Int32&amp; canceled)
+   at Atmel.VsIde.AvrStudio.Project.Management.AvrProjectNode.Load(String fileName, String location, String name, UInt32 flags, Guid&amp; iidProject, Int32&amp; canceled)
+   at Microsoft.VisualStudio.Project.ProjectNode.InitializeForOuter(String filename, String location, String name, UInt32 flags, Guid&amp; iid, IntPtr&amp; projectPointer, Int32&amp; canceled)
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   at Microsoft.VisualStudio.Project.ProjectFactory.CreateProject(String fileName, String location, String name, UInt32 flags, Guid&amp; projectGuid, IntPtr&amp; project, Int32&amp; canceled)
+   at Atmel.VsIde.AvrStudio.Project.Management.ProjectBaseEx.ProjectFactoryEx.CreateProject(String fileName, String location, String name, UInt32 flags, Guid&amp; projectGuid, IntPtr&amp; project, Int32&amp; canceled)
+   at Microsoft.VisualStudio.Shell.Flavor.FlavoredProjectFactoryBase.Microsoft.VisualStudio.Shell.Interop.IVsProjectFactory.CreateProject(String fileName, String location, String name, UInt32 flags, Guid&amp; projectGuid, IntPtr&amp; project, Int32&amp; canceled)
+   at ProjectImporter.Core.Framework.AVRConversionTarget.SafeInvoke(Action action)
+   at ProjectImporter.Core.Framework.AVRConversionTarget.SaveSolution()
+   at ProjectImporter.Core.Framework.AVRConversionTarget.AddProjectToSolution()
+   at Atmel.VsIde.AvrStudio.Project.Assembler.AVRAssemblerConversionTarget.AddProjectToSolution()
+   at ProjectImporter.Core.Framework.Activities.AVRStudio5ProjectCreatorActivities.AddProjectToSolution()
+   at ProjectImporter.Core.Framework.WorkflowBase.RunConfigurationIndependentActions()
+   --- End of inner exception stack trace ---
+   at ProjectImporter.Core.Framework.WorkflowBase.RunConfigurationIndependentActions()
+   at ProjectImporter.Core.Framework.WorkflowBase.Execute()
+   at ProjectImporter.Core.Framework.ProjectConversionEngine.CreateTargetProject()
+   at ProjectImporter.Core.Framework.ProjectConversionEngine.Run()</Exception>
+    </LogEntry>
+  </Project>
+</ConversionLog>
